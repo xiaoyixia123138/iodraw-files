@@ -1242,13 +1242,13 @@
         <mxCell id="RZETTOMdqtaq6G1vww1u-56" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RZETTOMdqtaq6G1vww1u-42">
           <mxGeometry x="45" y="360" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-57" value="计算新的总价" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="RZETTOMdqtaq6G1vww1u-56" parent="RZETTOMdqtaq6G1vww1u-42">
-          <mxGeometry x="-0.2941" relative="1" as="geometry">
-            <mxPoint x="50" y="340" as="sourcePoint" />
+        <mxCell id="RZETTOMdqtaq6G1vww1u-57" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="RZETTOMdqtaq6G1vww1u-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="310" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="80" y="370" />
+              <mxPoint x="90" y="340" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="65" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-43" value=":商品列表" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
