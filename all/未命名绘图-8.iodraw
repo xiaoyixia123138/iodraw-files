@@ -1320,7 +1320,10 @@
           <mxGeometry x="-1620" y="-480" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-70" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1610" y="-470" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1470" y="-480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZETTOMdqtaq6G1vww1u-71" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="-480" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
