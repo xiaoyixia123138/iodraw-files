@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="9EE0GrRKnpxt_D8ie5cB">
-    <mxGraphModel dx="3290" dy="1625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3861" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1337,10 +1337,11 @@
             <mxPoint x="-1320" y="-460.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-74" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
+        <mxCell id="RZETTOMdqtaq6G1vww1u-74" value="传入商品ID和数量" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.2" y="10" width="80" relative="1" as="geometry">
             <mxPoint x="-1550" y="-470" as="sourcePoint" />
-            <mxPoint x="-1470" y="-470" as="targetPoint" />
+            <mxPoint x="-1500" y="-470" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
