@@ -1373,6 +1373,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RZETTOMdqtaq6G1vww1u-82" value="4.添加商品项并更新数量" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=0.689;exitY=1.046;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0051" relative="1" as="geometry">
+            <mxPoint x="-1153" y="-432.0000000000001" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1160.01" y="-432.04" />
+              <mxPoint x="-1160.01" y="-382.04" />
+              <mxPoint x="-1197.01" y="-382.04" />
+            </Array>
+            <mxPoint x="-1197.01" y="-432.0000000000001" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
