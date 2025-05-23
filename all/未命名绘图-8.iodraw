@@ -1190,7 +1190,7 @@
         <mxCell id="RZETTOMdqtaq6G1vww1u-24" value="+扣除库存数量()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RZETTOMdqtaq6G1vww1u-21">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=1.034;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;shape=flexArrow;" edge="1" parent="1" source="RZETTOMdqtaq6G1vww1u-9" target="RZETTOMdqtaq6G1vww1u-8">
+        <mxCell id="RZETTOMdqtaq6G1vww1u-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=1.034;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;startArrow=diamondThin;startFill=0;" edge="1" parent="1" source="RZETTOMdqtaq6G1vww1u-9" target="RZETTOMdqtaq6G1vww1u-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1780" y="-757" as="targetPoint" />
             <Array as="points">
