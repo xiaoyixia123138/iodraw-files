@@ -1308,7 +1308,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-60" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="RZETTOMdqtaq6G1vww1u-41">
+        <mxCell id="RZETTOMdqtaq6G1vww1u-60" value="6.返回给用户新的总价" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="RZETTOMdqtaq6G1vww1u-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1910" y="-110" as="sourcePoint" />
             <mxPoint x="-1990" y="-110" as="targetPoint" />
