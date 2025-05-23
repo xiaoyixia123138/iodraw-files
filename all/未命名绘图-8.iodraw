@@ -1209,8 +1209,11 @@
         <mxCell id="RZETTOMdqtaq6G1vww1u-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="RZETTOMdqtaq6G1vww1u-4" target="RZETTOMdqtaq6G1vww1u-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="RZETTOMdqtaq6G1vww1u-33" value="依赖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1835" y="-972" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZETTOMdqtaq6G1vww1u-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RZETTOMdqtaq6G1vww1u-4" target="RZETTOMdqtaq6G1vww1u-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
