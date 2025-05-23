@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="9EE0GrRKnpxt_D8ie5cB">
-    <mxGraphModel dx="3501" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3947" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1317,90 +1317,90 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-69" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1670" y="-480" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1654" y="-410" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-70" value="商品列表" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1450" y="-480" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1434" y="-410" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RZETTOMdqtaq6G1vww1u-71" target="RZETTOMdqtaq6G1vww1u-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1185" y="-540" />
-              <mxPoint x="-1625" y="-540" />
+              <mxPoint x="-1169" y="-470" />
+              <mxPoint x="-1609" y="-470" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-71" value="购物车" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1230" y="-480" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1214" y="-410" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-72" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RZETTOMdqtaq6G1vww1u-69" target="RZETTOMdqtaq6G1vww1u-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1530" y="-460" as="sourcePoint" />
-            <mxPoint x="-1480" y="-510" as="targetPoint" />
+            <mxPoint x="-1514" y="-390" as="sourcePoint" />
+            <mxPoint x="-1464" y="-440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-73" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RZETTOMdqtaq6G1vww1u-70" target="RZETTOMdqtaq6G1vww1u-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1380" y="-460" as="sourcePoint" />
-            <mxPoint x="-1320" y="-460.2" as="targetPoint" />
+            <mxPoint x="-1364" y="-390" as="sourcePoint" />
+            <mxPoint x="-1304" y="-390.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-74" value="1.传入商品ID和数量" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-1550" y="-470" as="sourcePoint" />
-            <mxPoint x="-1500" y="-470" as="targetPoint" />
+            <mxPoint x="-1534" y="-400" as="sourcePoint" />
+            <mxPoint x="-1484" y="-400" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-75" value="3.返回对应商品对象" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-1320" y="-470" as="sourcePoint" />
-            <mxPoint x="-1270" y="-470" as="targetPoint" />
+            <mxPoint x="-1304" y="-400" as="sourcePoint" />
+            <mxPoint x="-1254" y="-400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-80" value="2.搜索商品" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=0.689;exitY=1.046;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1375.99" y="-439.9600000000001" as="sourcePoint" />
+            <mxPoint x="-1359.99" y="-369.9600000000001" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1383" y="-440" />
-              <mxPoint x="-1383" y="-390" />
-              <mxPoint x="-1420" y="-390" />
+              <mxPoint x="-1367" y="-370" />
+              <mxPoint x="-1367" y="-320" />
+              <mxPoint x="-1404" y="-320" />
             </Array>
-            <mxPoint x="-1420" y="-439.9600000000001" as="targetPoint" />
+            <mxPoint x="-1404" y="-369.9600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-81" value="4.添加商品项并更新数量" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=0.689;exitY=1.046;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
           <mxGeometry x="-0.0051" relative="1" as="geometry">
-            <mxPoint x="-1163" y="-442.0000000000001" as="sourcePoint" />
+            <mxPoint x="-1147" y="-372.0000000000001" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1170.01" y="-442.04" />
-              <mxPoint x="-1170.01" y="-392.04" />
-              <mxPoint x="-1207.01" y="-392.04" />
+              <mxPoint x="-1154.01" y="-372.04" />
+              <mxPoint x="-1154.01" y="-322.04" />
+              <mxPoint x="-1191.01" y="-322.04" />
             </Array>
-            <mxPoint x="-1207.01" y="-442.0000000000001" as="targetPoint" />
+            <mxPoint x="-1191.01" y="-372.0000000000001" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-82" value="5.计算总价" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="RZETTOMdqtaq6G1vww1u-71">
           <mxGeometry x="-0.0051" relative="1" as="geometry">
-            <mxPoint x="-1095.95" y="-451.97000000000014" as="sourcePoint" />
+            <mxPoint x="-1079.95" y="-381.97000000000014" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1140" y="-452" />
-              <mxPoint x="-1103" y="-452" />
-              <mxPoint x="-1103" y="-470" />
-              <mxPoint x="-1140" y="-470" />
+              <mxPoint x="-1124" y="-382" />
+              <mxPoint x="-1087" y="-382" />
+              <mxPoint x="-1087" y="-400" />
+              <mxPoint x="-1124" y="-400" />
             </Array>
-            <mxPoint x="-1139.96" y="-451.97000000000014" as="targetPoint" />
+            <mxPoint x="-1123.96" y="-381.97000000000014" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-84" value="6.返回总价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1470" y="-530" width="80" height="30" as="geometry" />
+          <mxGeometry x="-1454" y="-460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-85" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-1360" y="-530" as="sourcePoint" />
-            <mxPoint x="-1500" y="-530" as="targetPoint" />
+            <mxPoint x="-1344" y="-460" as="sourcePoint" />
+            <mxPoint x="-1484" y="-460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
