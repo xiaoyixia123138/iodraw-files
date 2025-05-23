@@ -1317,15 +1317,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-69" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1620" y="-480" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1650" y="-480" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-70" value="商品列表" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1470" y="-480" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1475" y="-480" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-71" value="购物车" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1310" y="-480" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-72" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RZETTOMdqtaq6G1vww1u-70">
+        <mxCell id="RZETTOMdqtaq6G1vww1u-72" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RZETTOMdqtaq6G1vww1u-69" target="RZETTOMdqtaq6G1vww1u-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1530" y="-460" as="sourcePoint" />
             <mxPoint x="-1480" y="-510" as="targetPoint" />
