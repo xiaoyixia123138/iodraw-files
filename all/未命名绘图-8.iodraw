@@ -1218,7 +1218,7 @@
         <mxCell id="RZETTOMdqtaq6G1vww1u-35" value="依赖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1385" y="-982" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RZETTOMdqtaq6G1vww1u-13" target="RZETTOMdqtaq6G1vww1u-20">
+        <mxCell id="RZETTOMdqtaq6G1vww1u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="RZETTOMdqtaq6G1vww1u-13" target="RZETTOMdqtaq6G1vww1u-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-38" value="关联" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
