@@ -1361,6 +1361,17 @@
             <mxPoint x="-1420" y="-439.9600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RZETTOMdqtaq6G1vww1u-81" value="2.搜索商品" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=0.689;exitY=1.046;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1163" y="-442.0000000000001" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1170.01" y="-442.04" />
+              <mxPoint x="-1170.01" y="-392.04" />
+              <mxPoint x="-1207.01" y="-392.04" />
+            </Array>
+            <mxPoint x="-1207.01" y="-442.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
