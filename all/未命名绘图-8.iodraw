@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="9EE0GrRKnpxt_D8ie5cB">
-    <mxGraphModel dx="2767" dy="1330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3501" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1373,7 +1373,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-82" value="4.添加商品项并更新数量" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="RZETTOMdqtaq6G1vww1u-71">
+        <mxCell id="RZETTOMdqtaq6G1vww1u-82" value="5.计算总价" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="RZETTOMdqtaq6G1vww1u-71">
           <mxGeometry x="-0.0051" relative="1" as="geometry">
             <mxPoint x="-1095.95" y="-451.97000000000014" as="sourcePoint" />
             <Array as="points">
