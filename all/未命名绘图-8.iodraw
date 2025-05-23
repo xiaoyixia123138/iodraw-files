@@ -1373,13 +1373,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-82" value="4.添加商品项并更新数量" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=0.689;exitY=1.046;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="RZETTOMdqtaq6G1vww1u-82" value="4.添加商品项并更新数量" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="RZETTOMdqtaq6G1vww1u-71">
           <mxGeometry x="-0.0051" relative="1" as="geometry">
             <mxPoint x="-1095.95" y="-451.97000000000014" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1102.96" y="-452.01" />
-              <mxPoint x="-1102.96" y="-402.01" />
-              <mxPoint x="-1139.96" y="-402.01" />
+              <mxPoint x="-1140" y="-452" />
+              <mxPoint x="-1103" y="-452" />
+              <mxPoint x="-1103" y="-470" />
+              <mxPoint x="-1140" y="-470" />
             </Array>
             <mxPoint x="-1139.96" y="-451.97000000000014" as="targetPoint" />
             <mxPoint as="offset" />
