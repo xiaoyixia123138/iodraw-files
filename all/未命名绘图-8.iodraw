@@ -1325,6 +1325,12 @@
         <mxCell id="RZETTOMdqtaq6G1vww1u-71" value="购物车" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1310" y="-480" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RZETTOMdqtaq6G1vww1u-72" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1530" y="-460" as="sourcePoint" />
+            <mxPoint x="-1480" y="-510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
