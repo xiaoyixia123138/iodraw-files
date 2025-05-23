@@ -1131,28 +1131,28 @@
           <mxGeometry y="88" width="160" height="62" as="geometry" />
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-5" value="ShoppingCart" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1920" y="-896" width="160" height="86" as="geometry" />
+          <mxGeometry x="-1920" y="-896" width="160" height="148" as="geometry" />
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-6" value="+商品：String&lt;div&gt;+商品数量：int&lt;/div&gt;&lt;div&gt;+商品价格：double&lt;/div&gt;&lt;div&gt;+商品总价：double&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RZETTOMdqtaq6G1vww1u-5">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="RZETTOMdqtaq6G1vww1u-5">
-          <mxGeometry y="52" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-8" value="+添加商品()&lt;div&gt;+计算总价()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RZETTOMdqtaq6G1vww1u-5">
-          <mxGeometry y="60" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-9" value="Order" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1920" y="-780" width="160" height="138" as="geometry" />
-        </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-10" value="+订单号：Longint&lt;div&gt;+总价：double&lt;/div&gt;&lt;div&gt;+下单时间：Date&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RZETTOMdqtaq6G1vww1u-9">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="RZETTOMdqtaq6G1vww1u-9">
+        <mxCell id="RZETTOMdqtaq6G1vww1u-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="RZETTOMdqtaq6G1vww1u-5">
           <mxGeometry y="100" width="160" height="8" as="geometry" />
         </mxCell>
+        <mxCell id="RZETTOMdqtaq6G1vww1u-8" value="+添加商品()&lt;div&gt;+计算总价()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RZETTOMdqtaq6G1vww1u-5">
+          <mxGeometry y="108" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RZETTOMdqtaq6G1vww1u-9" value="Order" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1920" y="-780" width="160" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="RZETTOMdqtaq6G1vww1u-10" value="+订单号：Longint&lt;div&gt;+总价：double&lt;/div&gt;&lt;div&gt;+下单时间：Date&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RZETTOMdqtaq6G1vww1u-9">
+          <mxGeometry y="26" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RZETTOMdqtaq6G1vww1u-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="RZETTOMdqtaq6G1vww1u-9">
+          <mxGeometry y="80" width="160" height="8" as="geometry" />
+        </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-12" value="+生成订单()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RZETTOMdqtaq6G1vww1u-9">
-          <mxGeometry y="108" width="160" height="30" as="geometry" />
+          <mxGeometry y="88" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-13" value="Product" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1680" y="-1015" width="160" height="86" as="geometry" />
