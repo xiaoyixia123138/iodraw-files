@@ -1341,6 +1341,7 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-1550" y="-470" as="sourcePoint" />
             <mxPoint x="-1500" y="-470" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-75" value="返回对应商品对象" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
@@ -1349,7 +1350,7 @@
             <mxPoint x="-1270" y="-470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-80" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=0.689;exitY=1.046;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="RZETTOMdqtaq6G1vww1u-80" value="2.搜索商品" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=0.689;exitY=1.046;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1375.99" y="-439.9600000000001" as="sourcePoint" />
             <Array as="points">
