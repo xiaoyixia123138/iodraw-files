@@ -1127,7 +1127,7 @@
         <mxCell id="RZETTOMdqtaq6G1vww1u-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="RZETTOMdqtaq6G1vww1u-1">
           <mxGeometry y="80" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-4" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RZETTOMdqtaq6G1vww1u-1">
+        <mxCell id="RZETTOMdqtaq6G1vww1u-4" value="+浏览物品()&lt;div&gt;+添加到购物车()&lt;/div&gt;&lt;div&gt;+结算()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="RZETTOMdqtaq6G1vww1u-1">
           <mxGeometry y="88" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-5" value="ShoppingCart" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
