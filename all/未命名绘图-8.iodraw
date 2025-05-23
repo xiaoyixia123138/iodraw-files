@@ -1263,6 +1263,9 @@
             <mxPoint x="58" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RZETTOMdqtaq6G1vww1u-66" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RZETTOMdqtaq6G1vww1u-43">
+          <mxGeometry x="45" y="98" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="RZETTOMdqtaq6G1vww1u-44" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2275" y="-442" width="50" height="30" as="geometry" />
         </mxCell>
@@ -1312,9 +1315,6 @@
             <mxPoint x="-1910" y="-110" as="sourcePoint" />
             <mxPoint x="-2240" y="-110" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RZETTOMdqtaq6G1vww1u-66" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-2130" y="-320" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
