@@ -1160,8 +1160,11 @@
         <mxCell id="nmewsRnbEeb8FDdJPZlW-8" value="pas/ALarm()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2295" y="-599" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nmewsRnbEeb8FDdJPZlW-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2115" y="-412" width="50" height="30" as="geometry" />
+        <mxCell id="nmewsRnbEeb8FDdJPZlW-9" value="pass/Lock()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2100" y="-400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nmewsRnbEeb8FDdJPZlW-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2115" y="-532" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
