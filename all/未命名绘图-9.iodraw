@@ -1166,6 +1166,9 @@
         <mxCell id="nmewsRnbEeb8FDdJPZlW-10" value="coin/Unlock()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2110" y="-530" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nmewsRnbEeb8FDdJPZlW-11" value="停车收费站出入口状态图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2170" y="-652" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
