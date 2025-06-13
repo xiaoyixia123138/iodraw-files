@@ -1355,8 +1355,11 @@
         <mxCell id="S9UlAei44wI-5piICNiC-61" value="库存充足" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-1565" y="50" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-63" value="生成订单" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="S9UlAei44wI-5piICNiC-63" value="完成支付" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1625" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-64" value="完成支付" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1615" y="190" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
