@@ -1288,6 +1288,9 @@
         <mxCell id="S9UlAei44wI-5piICNiC-38" value="选择支付方式" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1620" y="-160" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-43" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1645" y="-440" width="160" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
