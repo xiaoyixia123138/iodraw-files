@@ -1575,10 +1575,10 @@
             <mxPoint x="-1449.95" y="1359.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-139" value="2.转发消息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=0.363;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-137" target="S9UlAei44wI-5piICNiC-135">
+        <mxCell id="S9UlAei44wI-5piICNiC-139" value="2.转发消息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=0.363;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-1440" y="1389" as="sourcePoint" />
-            <mxPoint x="-1285" y="1388.9499999999996" as="targetPoint" />
+            <mxPoint x="-1444" y="1419.4699999999996" as="sourcePoint" />
+            <mxPoint x="-1257.4999999999998" y="1419.4699999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
