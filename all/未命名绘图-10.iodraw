@@ -1569,10 +1569,16 @@
         <mxCell id="S9UlAei44wI-5piICNiC-137" value="系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="-1500" y="1280" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-138" value="1.发送消息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="S9UlAei44wI-5piICNiC-138" value="1.发送消息（）" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-1620.0026315789476" y="1359.9999999999995" as="sourcePoint" />
             <mxPoint x="-1449.95" y="1359.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-139" value="1.发送消息（）" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1610.0026315789476" y="1369.9999999999995" as="sourcePoint" />
+            <mxPoint x="-1439.95" y="1369.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
