@@ -1614,8 +1614,8 @@
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-147" value="4.回复消息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1441" y="1495" as="targetPoint" />
-            <mxPoint x="-1263" y="1495" as="sourcePoint" />
+            <mxPoint x="-1610" y="1560" as="targetPoint" />
+            <mxPoint x="-1456" y="1560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
