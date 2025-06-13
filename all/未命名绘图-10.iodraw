@@ -1364,6 +1364,14 @@
         <mxCell id="S9UlAei44wI-5piICNiC-65" value="完成支付" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1520" y="320" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-66" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1670" y="280" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1590" y="282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
