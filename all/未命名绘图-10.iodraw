@@ -1572,7 +1572,7 @@
         <mxCell id="S9UlAei44wI-5piICNiC-140" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="S9UlAei44wI-5piICNiC-137">
           <mxGeometry x="45" y="110" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-141" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="S9UlAei44wI-5piICNiC-140" parent="S9UlAei44wI-5piICNiC-137">
+        <mxCell id="S9UlAei44wI-5piICNiC-141" value="接收消息" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="S9UlAei44wI-5piICNiC-140" parent="S9UlAei44wI-5piICNiC-137">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="90" as="sourcePoint" />
             <Array as="points">
