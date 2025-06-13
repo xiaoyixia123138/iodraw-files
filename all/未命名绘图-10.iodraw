@@ -1628,7 +1628,7 @@
           <mxGeometry x="-1528" y="1700" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-151" value="&lt;u&gt;：用户A&lt;/u&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1624" y="1710" width="30" height="60" as="geometry" />
+          <mxGeometry x="-1234" y="1695" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
