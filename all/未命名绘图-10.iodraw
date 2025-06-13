@@ -1680,10 +1680,10 @@
         <mxCell id="S9UlAei44wI-5piICNiC-160" value="2.接收消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1510" y="1658" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-161" value="4.回复消息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1">
+        <mxCell id="S9UlAei44wI-5piICNiC-161" value="4.回复消息" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1340" y="1750" as="targetPoint" />
-            <mxPoint x="-1270" y="1750" as="sourcePoint" />
+            <mxPoint x="-1349" y="1750" as="targetPoint" />
+            <mxPoint x="-1279" y="1750" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
