@@ -1288,11 +1288,11 @@
         <mxCell id="S9UlAei44wI-5piICNiC-38" value="选择支付方式" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1620" y="-160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=0.89;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-33" target="S9UlAei44wI-5piICNiC-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.89;exitY=0.89;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.564;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-33" target="S9UlAei44wI-5piICNiC-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="S9UlAei44wI-5piICNiC-42" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-1620" y="-450" as="sourcePoint" />
+            <mxPoint x="-1520" y="-450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
