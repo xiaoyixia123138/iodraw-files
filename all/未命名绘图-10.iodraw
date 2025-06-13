@@ -1193,10 +1193,16 @@
         <mxCell id="S9UlAei44wI-5piICNiC-14" value="查看借阅记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1285" y="-950" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="S9UlAei44wI-5piICNiC-10">
+        <mxCell id="S9UlAei44wI-5piICNiC-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-9" target="S9UlAei44wI-5piICNiC-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1490" y="-830" as="sourcePoint" />
             <mxPoint x="-1440" y="-880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="S9UlAei44wI-5piICNiC-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1435" y="-940" as="sourcePoint" />
+            <mxPoint x="-1350" y="-980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
