@@ -1267,7 +1267,7 @@
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-30" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="S9UlAei44wI-5piICNiC-29" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1575" y="-569" as="targetPoint" />
+            <mxPoint x="-1570" y="-550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-33" value="用户浏览商品" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
@@ -1443,7 +1443,7 @@
           <mxGeometry x="-1670" y="-720" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-86" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1720" y="-684" width="290" height="1194" as="geometry" />
+          <mxGeometry x="-1720" y="-580" width="290" height="1090" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
