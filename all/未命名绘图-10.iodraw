@@ -1285,8 +1285,8 @@
         <mxCell id="S9UlAei44wI-5piICNiC-37" value="加入购物车" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1490" y="-470" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-38" value="用户浏览商品" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1620" y="-350" width="120" height="50" as="geometry" />
+        <mxCell id="S9UlAei44wI-5piICNiC-38" value="选择支付方式" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="-220" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
