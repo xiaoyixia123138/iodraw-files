@@ -1730,10 +1730,16 @@
         <mxCell id="S9UlAei44wI-5piICNiC-171" value="下降" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1430" y="2110" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-172" value="按下上升按钮" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="S9UlAei44wI-5piICNiC-172" value="按下上升按钮" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.428;exitY=-0.077;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-170">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-1803" y="1964.4099999999999" as="sourcePoint" />
             <mxPoint x="-1604" y="1965" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-173" value="按下上升按钮" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.428;exitY=-0.077;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1688" y="2116" as="sourcePoint" />
+            <mxPoint x="-1594" y="1975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
