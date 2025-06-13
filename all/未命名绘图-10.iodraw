@@ -1706,8 +1706,8 @@
         <mxCell id="S9UlAei44wI-5piICNiC-164" value="5.接收消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1470" y="1800" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-165" value="7." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1655" y="1828" width="30" height="30" as="geometry" />
+        <mxCell id="S9UlAei44wI-5piICNiC-165" value="7.（电梯）状态图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1700" y="1828" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-166" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="-1620" y="1970" width="30" height="30" as="geometry" />
