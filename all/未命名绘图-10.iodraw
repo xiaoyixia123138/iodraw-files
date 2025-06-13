@@ -1712,12 +1712,12 @@
         <mxCell id="S9UlAei44wI-5piICNiC-166" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="-1561.5" y="1855" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-167" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="S9UlAei44wI-5piICNiC-166" parent="1">
+        <mxCell id="S9UlAei44wI-5piICNiC-167" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="S9UlAei44wI-5piICNiC-166" parent="1" target="S9UlAei44wI-5piICNiC-168">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1546.5" y="1945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-168" value="完成支付" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="S9UlAei44wI-5piICNiC-168" value="空闲" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1604" y="1940" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
