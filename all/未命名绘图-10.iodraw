@@ -1361,7 +1361,7 @@
         <mxCell id="S9UlAei44wI-5piICNiC-64" value="处理订单" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1720" y="320" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-65" value="完成支付" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="S9UlAei44wI-5piICNiC-65" value="安排发货" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1520" y="320" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-66" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
@@ -1387,6 +1387,9 @@
               <mxPoint x="-1480" y="300" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-71" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="290" width="200" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
