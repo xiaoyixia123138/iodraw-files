@@ -1624,6 +1624,9 @@
         <mxCell id="S9UlAei44wI-5piICNiC-149" value="用户A" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1634" y="1700" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-150" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1528" y="1700" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
