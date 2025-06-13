@@ -1532,11 +1532,9 @@
             <mxPoint x="-1475" y="1165" as="sourcePoint" />
             <mxPoint x="-1560" y="1050" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1345" y="1165" />
-              <mxPoint x="-1310" y="1165" />
+              <mxPoint x="-1310" y="1155" />
               <mxPoint x="-1310" y="1162" />
-              <mxPoint x="-1560" y="1162" />
-              <mxPoint x="-1560" y="1040" />
+              <mxPoint x="-1267" y="1162" />
             </Array>
           </mxGeometry>
         </mxCell>
