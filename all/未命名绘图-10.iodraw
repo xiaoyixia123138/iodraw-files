@@ -1246,7 +1246,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-25" value="逾期处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S9UlAei44wI-5piICNiC-25" value="添加书籍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1440" y="-826" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-26" value="《include》" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-8">
@@ -1258,6 +1258,9 @@
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-27" value="删除书籍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1320" y="-820" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1845" y="-1152" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
