@@ -1557,7 +1557,7 @@
         <mxCell id="S9UlAei44wI-5piICNiC-129" value="用户A" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1629" y="1270" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-130" value="用户A" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="S9UlAei44wI-5piICNiC-130" value="用户B" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1250" y="1270" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
