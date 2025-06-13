@@ -1718,7 +1718,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-168" value="完成支付" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1549" y="117.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1604" y="1940" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
