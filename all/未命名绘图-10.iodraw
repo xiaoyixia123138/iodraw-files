@@ -1344,6 +1344,9 @@
         <mxCell id="S9UlAei44wI-5piICNiC-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.483;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-56" target="S9UlAei44wI-5piICNiC-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-60" value="系统校验库存" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1625" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
