@@ -1407,8 +1407,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-74" value="处理订单" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1710" y="330" width="120" height="50" as="geometry" />
+        <mxCell id="S9UlAei44wI-5piICNiC-74" value="用户确认收货" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1630" y="450" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
