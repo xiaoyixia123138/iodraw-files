@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="9EE0GrRKnpxt_D8ie5cB">
-    <mxGraphModel dx="3393" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2846" dy="1627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1364,7 +1364,7 @@
           <mxGeometry x="-1565" y="50" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-63" value="完成支付" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1625" y="180" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1625" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-64" value="商家处理订单" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1720" y="320" width="120" height="50" as="geometry" />
@@ -1374,11 +1374,6 @@
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-66" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1670" y="280" width="200" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-63" target="S9UlAei44wI-5piICNiC-66">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1590" y="282" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.054;exitY=0.796;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-66" target="S9UlAei44wI-5piICNiC-64">
           <mxGeometry relative="1" as="geometry">
@@ -1433,7 +1428,7 @@
           <mxGeometry x="-1525" y="-12" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-81" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
-          <mxGeometry x="-1605" width="100" height="60" as="geometry" />
+          <mxGeometry x="-1510" y="193" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
