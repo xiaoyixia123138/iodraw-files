@@ -1554,14 +1554,8 @@
         <mxCell id="S9UlAei44wI-5piICNiC-128" value="5.顺序图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1665" y="1238" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-129" value="用户A" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1629" y="1270" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-130" value="用户B" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1250" y="1270" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-131" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="-1540" y="1270" width="20" height="300" as="geometry" />
+        <mxCell id="S9UlAei44wI-5piICNiC-133" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="-1630" y="1270" width="20" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
