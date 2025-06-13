@@ -1406,11 +1406,11 @@
         <mxCell id="S9UlAei44wI-5piICNiC-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-63" target="S9UlAei44wI-5piICNiC-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-85" value="2." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1670" y="-720" width="30" height="30" as="geometry" />
+        <mxCell id="S9UlAei44wI-5piICNiC-85" value="2.活动图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1690" y="-720" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-86" value="用户" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1654" y="-632.5" width="290" height="1090" as="geometry" />
+          <mxGeometry x="-1655" y="-632.5" width="290" height="1090" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-66" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="S9UlAei44wI-5piICNiC-86">
           <mxGeometry x="50" y="860" width="200" height="10" as="geometry" />
@@ -1462,8 +1462,8 @@
         <mxCell id="S9UlAei44wI-5piICNiC-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.527;entryY=0.206;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-81" target="S9UlAei44wI-5piICNiC-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-96" value="3." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1645" y="608" width="30" height="30" as="geometry" />
+        <mxCell id="S9UlAei44wI-5piICNiC-96" value="3.类图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="608" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-101" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;学生&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- field: 学号&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: 姓名&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: 年龄&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- method(): 选课&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1649" y="638" width="160" height="110" as="geometry" />
@@ -1547,6 +1547,9 @@
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-124" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1320" y="1048" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-127" value="1.用例图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1805" y="-1112" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
