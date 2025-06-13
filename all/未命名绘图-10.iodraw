@@ -1667,14 +1667,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.127;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-150">
+        <mxCell id="S9UlAei44wI-5piICNiC-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.127;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-150" target="S9UlAei44wI-5piICNiC-150">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1485" y="1680" as="sourcePoint" />
             <mxPoint x="-1415" y="1680" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-1480" y="1680" />
+              <mxPoint x="-1439" y="1680" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-160" value="2.接收消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1510" y="1658" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
