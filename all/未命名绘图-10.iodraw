@@ -1265,33 +1265,34 @@
         <mxCell id="S9UlAei44wI-5piICNiC-29" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="-1585" y="-660" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-30" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="S9UlAei44wI-5piICNiC-29" parent="1">
+        <mxCell id="S9UlAei44wI-5piICNiC-30" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1570" y="-550" as="targetPoint" />
+            <mxPoint x="-1504" y="-602.5" as="targetPoint" />
+            <mxPoint x="-1504" y="-682.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1570" y="-589" />
-              <mxPoint x="-1569" y="-589" />
-              <mxPoint x="-1569" y="-550" />
+              <mxPoint x="-1504" y="-641.5" />
+              <mxPoint x="-1503" y="-641.5" />
+              <mxPoint x="-1503" y="-602.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-33" value="用户浏览商品" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1630" y="-550" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1564" y="-602.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-34" value="选择商品" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1695" y="-410" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1629" y="-462.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-36" value="填写收货地址" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1625" y="-230" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1559" y="-282.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-37" value="加入购物车" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1565" y="-410" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1499" y="-462.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-38" value="选择支付方式" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1625" y="-150" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1559" y="-202.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-43" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1645" y="-450" width="160" height="20" as="geometry" />
+          <mxGeometry x="-1579" y="-502.5" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.465;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-33" target="S9UlAei44wI-5piICNiC-43">
           <mxGeometry relative="1" as="geometry" />
@@ -1303,18 +1304,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-48" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1645" y="-340" width="435" height="20" as="geometry" />
+          <mxGeometry x="-1579" y="-392.5" width="435" height="20" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1609" y="-360" as="sourcePoint" />
-            <mxPoint x="-1610" y="-330" as="targetPoint" />
+            <mxPoint x="-1543" y="-412.5" as="sourcePoint" />
+            <mxPoint x="-1544" y="-382.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="S9UlAei44wI-5piICNiC-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1530" y="-360" as="sourcePoint" />
-            <mxPoint x="-1532" y="-334" as="targetPoint" />
+            <mxPoint x="-1464" y="-412.5" as="sourcePoint" />
+            <mxPoint x="-1466" y="-386.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-35" target="S9UlAei44wI-5piICNiC-36">
@@ -1326,81 +1327,81 @@
         <mxCell id="S9UlAei44wI-5piICNiC-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.007;exitY=0.574;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-55" target="S9UlAei44wI-5piICNiC-77">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1264" y="44" />
-              <mxPoint x="-1264" y="565" />
+              <mxPoint x="-1198" y="-8.5" />
+              <mxPoint x="-1198" y="512.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-38" target="S9UlAei44wI-5piICNiC-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1565" y="-90" />
-              <mxPoint x="-1330" y="-90" />
+              <mxPoint x="-1499" y="-142.5" />
+              <mxPoint x="-1264" y="-142.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-60" target="S9UlAei44wI-5piICNiC-63">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1565" y="180" as="targetPoint" />
+            <mxPoint x="-1499" y="127.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-63" value="完成支付" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1625" y="160" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1559" y="107.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-64" value="商家处理订单" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1720" y="320" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1654" y="267.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.054;exitY=0.796;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-66" target="S9UlAei44wI-5piICNiC-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1590" y="280" as="sourcePoint" />
-            <mxPoint x="-1590" y="335" as="targetPoint" />
+            <mxPoint x="-1524" y="227.5" as="sourcePoint" />
+            <mxPoint x="-1524" y="282.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.952;exitY=0.559;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-66">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1480" y="290" as="sourcePoint" />
-            <mxPoint x="-1480" y="320" as="targetPoint" />
+            <mxPoint x="-1414" y="237.5" as="sourcePoint" />
+            <mxPoint x="-1414" y="267.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1480" y="300" />
-              <mxPoint x="-1480" y="300" />
+              <mxPoint x="-1414" y="247.5" />
+              <mxPoint x="-1414" y="247.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-71" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1670" y="400" width="200" height="10" as="geometry" />
+          <mxGeometry x="-1604" y="347.5" width="200" height="10" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.054;exitY=0.796;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1653" y="372" as="sourcePoint" />
-            <mxPoint x="-1654" y="404" as="targetPoint" />
+            <mxPoint x="-1587" y="319.5" as="sourcePoint" />
+            <mxPoint x="-1588" y="351.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.952;exitY=0.559;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1474" y="370" as="sourcePoint" />
-            <mxPoint x="-1474" y="404" as="targetPoint" />
+            <mxPoint x="-1408" y="317.5" as="sourcePoint" />
+            <mxPoint x="-1408" y="351.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1474" y="384" />
-              <mxPoint x="-1474" y="384" />
+              <mxPoint x="-1408" y="331.5" />
+              <mxPoint x="-1408" y="331.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-74">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1569.7241379310344" y="550" as="targetPoint" />
+            <mxPoint x="-1503.7241379310344" y="497.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-74" value="用户确认收货" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1630" y="450" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1564" y="397.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-71" target="S9UlAei44wI-5piICNiC-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-77" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-1585" y="550" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1519" y="497.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-81" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
-          <mxGeometry x="-1597.5" y="230" width="65" height="39" as="geometry" />
+          <mxGeometry x="-1531.5" y="177.5" width="65" height="39" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-63" target="S9UlAei44wI-5piICNiC-81">
           <mxGeometry relative="1" as="geometry" />
@@ -1409,7 +1410,7 @@
           <mxGeometry x="-1670" y="-720" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-86" value="用户" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1720" y="-580" width="290" height="1090" as="geometry" />
+          <mxGeometry x="-1654" y="-632.5" width="290" height="1090" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-66" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="S9UlAei44wI-5piICNiC-86">
           <mxGeometry x="50" y="860" width="200" height="10" as="geometry" />
@@ -1418,7 +1419,7 @@
           <mxGeometry x="170" y="900" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-88" value="系统" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1430" y="-580" width="290" height="1090" as="geometry" />
+          <mxGeometry x="-1364" y="-632.5" width="290" height="1090" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-35" value="进入结算页面" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="S9UlAei44wI-5piICNiC-88">
           <mxGeometry x="95" y="280" width="120" height="50" as="geometry" />
