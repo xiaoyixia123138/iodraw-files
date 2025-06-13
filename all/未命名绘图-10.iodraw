@@ -1262,6 +1262,14 @@
         <mxCell id="S9UlAei44wI-5piICNiC-28" value="UML期末复习题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1875" y="-1152" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-29" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-1590" y="-659" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-30" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="S9UlAei44wI-5piICNiC-29" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1575" y="-569" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
