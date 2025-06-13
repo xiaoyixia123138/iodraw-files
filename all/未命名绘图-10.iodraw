@@ -1621,11 +1621,14 @@
         <mxCell id="S9UlAei44wI-5piICNiC-148" value="6.协作图（通信图）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1664" y="1650" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-149" value="用户A" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="S9UlAei44wI-5piICNiC-149" value="&lt;u&gt;：用户A&lt;/u&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1634" y="1700" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-150" value="&lt;u&gt;:系统&lt;/u&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1528" y="1700" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-151" value="&lt;u&gt;：用户A&lt;/u&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1624" y="1710" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
