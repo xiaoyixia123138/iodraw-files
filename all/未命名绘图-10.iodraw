@@ -1447,7 +1447,7 @@
         <mxCell id="S9UlAei44wI-5piICNiC-85" value="2." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1670" y="-720" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-86" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S9UlAei44wI-5piICNiC-86" value="用户" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1720" y="-580" width="290" height="1090" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-88" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
