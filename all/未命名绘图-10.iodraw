@@ -1280,7 +1280,7 @@
           <mxGeometry x="-1625" y="-300" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-36" value="填写收货地址" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1620" y="-240" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1625" y="-230" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-37" value="加入购物车" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1565" y="-410" width="120" height="50" as="geometry" />
@@ -1317,8 +1317,8 @@
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.706;entryY=0.424;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1520" y="-350" as="sourcePoint" />
-            <mxPoint x="-1522" y="-322" as="targetPoint" />
+            <mxPoint x="-1565" y="-328" as="sourcePoint" />
+            <mxPoint x="-1567" y="-300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
