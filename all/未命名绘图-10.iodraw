@@ -1557,6 +1557,9 @@
         <mxCell id="S9UlAei44wI-5piICNiC-133" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
           <mxGeometry x="-1630" y="1270" width="20" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-146" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="S9UlAei44wI-5piICNiC-133">
+          <mxGeometry x="5" y="90" width="10" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-134" value="用户A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1654" y="1310" width="60" height="30" as="geometry" />
         </mxCell>
@@ -1586,7 +1589,7 @@
             <mxPoint x="-1449.95" y="1359.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-142" value="接收消息" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="S9UlAei44wI-5piICNiC-142" value="5.接收消息" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0651" y="9" relative="1" as="geometry">
             <mxPoint x="-1449.05" y="1510.05" as="sourcePoint" />
             <Array as="points">
