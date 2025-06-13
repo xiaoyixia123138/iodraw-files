@@ -1744,9 +1744,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-174" value="按下上升按钮" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;entryX=0.638;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.11;exitY=0.89;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-168" target="S9UlAei44wI-5piICNiC-170">
-          <mxGeometry width="80" relative="1" as="geometry">
+          <mxGeometry x="-0.0229" y="25" width="80" relative="1" as="geometry">
             <mxPoint x="-1688" y="2116" as="sourcePoint" />
             <mxPoint x="-1594" y="1975" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
