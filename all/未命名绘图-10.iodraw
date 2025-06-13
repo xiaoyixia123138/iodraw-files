@@ -1277,7 +1277,7 @@
           <mxGeometry x="-1695" y="-410" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-35" value="进入结算页面" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1625" y="-330" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1625" y="-300" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-36" value="填写收货地址" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1620" y="-240" width="120" height="50" as="geometry" />
@@ -1301,7 +1301,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-48" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1635" y="-440" width="160" height="20" as="geometry" />
+          <mxGeometry x="-1645" y="-340" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
