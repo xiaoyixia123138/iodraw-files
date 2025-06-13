@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="9EE0GrRKnpxt_D8ie5cB">
-    <mxGraphModel dx="2804" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2571" dy="1371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1632,7 +1632,7 @@
         <mxCell id="S9UlAei44wI-5piICNiC-150" value="&lt;u&gt;:系统&lt;/u&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1494" y="1710" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-151" value="&lt;u&gt;：用户A&lt;/u&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="S9UlAei44wI-5piICNiC-151" value="&lt;u&gt;：用户B&lt;/u&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1234" y="1695" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -1646,16 +1646,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-155" value="1.发送消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1604" y="1700" width="80" height="30" as="geometry" />
+          <mxGeometry x="-1604" y="1690" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="S9UlAei44wI-5piICNiC-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1600" y="1745" as="sourcePoint" />
-            <mxPoint x="-1484" y="1745" as="targetPoint" />
+            <mxPoint x="-1384" y="1735" as="sourcePoint" />
+            <mxPoint x="-1240" y="1735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-157" value="1.发送消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1594" y="1710" width="80" height="30" as="geometry" />
+          <mxGeometry x="-1378" y="1700" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
