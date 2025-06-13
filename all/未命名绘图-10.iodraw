@@ -1588,11 +1588,11 @@
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-142" value="接收消息" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.06" y="9" relative="1" as="geometry">
-            <mxPoint x="-1449" y="1475" as="sourcePoint" />
+            <mxPoint x="-1449.05" y="1510.05" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1419" y="1505" />
+              <mxPoint x="-1419.05" y="1540.05" />
             </Array>
-            <mxPoint x="-1444" y="1505" as="targetPoint" />
+            <mxPoint x="-1444.05" y="1540.05" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
