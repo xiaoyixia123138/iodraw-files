@@ -1169,9 +1169,6 @@
         <mxCell id="nmewsRnbEeb8FDdJPZlW-11" value="停车收费站出入口状态图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2145" y="-620" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-1" target="S9UlAei44wI-5piICNiC-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-1730" y="-1040" width="30" height="60" as="geometry" />
         </mxCell>
