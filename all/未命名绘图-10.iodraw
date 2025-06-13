@@ -1629,6 +1629,15 @@
         <mxCell id="S9UlAei44wI-5piICNiC-149" value="&lt;u&gt;：用户A&lt;/u&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1634" y="1700" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="S9UlAei44wI-5piICNiC-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-150" target="S9UlAei44wI-5piICNiC-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1411" y="1810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1411" y="1800" />
+              <mxPoint x="-1466" y="1800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-150" value="&lt;u&gt;:系统&lt;/u&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1494" y="1710" width="110" height="50" as="geometry" />
         </mxCell>
