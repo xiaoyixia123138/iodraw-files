@@ -1170,7 +1170,7 @@
           <mxGeometry x="-2145" y="-620" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-1820" y="-1020" width="30" height="60" as="geometry" />
+          <mxGeometry x="-1730" y="-1040" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
