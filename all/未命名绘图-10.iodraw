@@ -1738,9 +1738,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-173" value="按下下降按钮" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.331;exitY=-0.015;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-171" target="S9UlAei44wI-5piICNiC-168">
-          <mxGeometry width="80" relative="1" as="geometry">
+          <mxGeometry x="-0.1024" y="-27" width="80" relative="1" as="geometry">
             <mxPoint x="-1530" y="2121" as="sourcePoint" />
             <mxPoint x="-1436" y="1980" as="targetPoint" />
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-174" value="到达楼层/空闲状态" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;entryX=0.638;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.11;exitY=0.89;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S9UlAei44wI-5piICNiC-168" target="S9UlAei44wI-5piICNiC-170">
@@ -1751,7 +1752,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-175" value="到达楼层/空闲状态" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;entryX=0.11;entryY=0.11;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.11;exitY=0.89;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="S9UlAei44wI-5piICNiC-171">
-          <mxGeometry x="-0.1218" y="-30" width="80" relative="1" as="geometry">
+          <mxGeometry x="-0.3009" y="-32" width="80" relative="1" as="geometry">
             <mxPoint x="-1503.5" y="1987" as="sourcePoint" />
             <mxPoint x="-1584.5" y="2115" as="targetPoint" />
             <mxPoint as="offset" />
