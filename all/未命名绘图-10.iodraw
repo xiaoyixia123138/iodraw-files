@@ -1750,10 +1750,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-175" value="到达楼层/空闲状态" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;entryX=0.638;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.11;exitY=0.89;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry x="-0.0229" y="25" width="80" relative="1" as="geometry">
-            <mxPoint x="-1581" y="1994" as="sourcePoint" />
-            <mxPoint x="-1662" y="2122" as="targetPoint" />
+        <mxCell id="S9UlAei44wI-5piICNiC-175" value="到达楼层/空闲状态" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;entryX=0.11;entryY=0.11;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.11;exitY=0.89;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="S9UlAei44wI-5piICNiC-171">
+          <mxGeometry x="-0.1218" y="-30" width="80" relative="1" as="geometry">
+            <mxPoint x="-1503.5" y="1987" as="sourcePoint" />
+            <mxPoint x="-1584.5" y="2115" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
