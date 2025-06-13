@@ -1637,17 +1637,12 @@
         </mxCell>
         <mxCell id="S9UlAei44wI-5piICNiC-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1600" y="1720" as="sourcePoint" />
-            <mxPoint x="-1530" y="1730" as="targetPoint" />
+            <mxPoint x="-1594" y="1724.7" as="sourcePoint" />
+            <mxPoint x="-1524" y="1724.7" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1600" y="1720" />
-              <mxPoint x="-1530" y="1720" />
+              <mxPoint x="-1534" y="1724.7" />
+              <mxPoint x="-1534" y="1724.7" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S9UlAei44wI-5piICNiC-154" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S9UlAei44wI-5piICNiC-153">
-          <mxGeometry x="0.903" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
