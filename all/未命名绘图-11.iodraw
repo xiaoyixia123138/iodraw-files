@@ -1794,6 +1794,9 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-140" value="订单状态图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2290" y="1718" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-144" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2065" y="1778" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
