@@ -1623,11 +1623,12 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-68" value="订单系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-2197.5" y="1530.14" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-70" target="CmwNRCAu6_P1rd_mQ4pW-67">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-70" target="CmwNRCAu6_P1rd_mQ4pW-81">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1932.5" y="1470.14" />
-              <mxPoint x="-2372.5" y="1470.14" />
+              <mxPoint x="-1932" y="1470" />
+              <mxPoint x="-2372" y="1470" />
+              <mxPoint x="-2372" y="1450" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1659,7 +1660,7 @@
           <mxGeometry x="-1760" y="1530.1399999999999" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-81" value="商家" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1920" y="1415" width="90" height="40" as="geometry" />
+          <mxGeometry x="-2115" y="1410" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-82" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
