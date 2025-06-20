@@ -1541,17 +1541,6 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CmwNRCAu6_P1rd_mQ4pW-30">
           <mxGeometry x="5" y="180" width="10" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CmwNRCAu6_P1rd_mQ4pW-30">
-          <mxGeometry x="10" y="210" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-33" value="4.烹饪备餐" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="CmwNRCAu6_P1rd_mQ4pW-30" target="CmwNRCAu6_P1rd_mQ4pW-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="15" y="190" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="45" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-36" value=":用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2250" y="780" width="50" height="30" as="geometry" />
         </mxCell>
@@ -1568,12 +1557,6 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-2220" y="840" as="sourcePoint" />
             <mxPoint x="-2140" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-41" value="3.推送订单" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-30">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-2070" y="920" as="sourcePoint" />
-            <mxPoint x="-1990" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
