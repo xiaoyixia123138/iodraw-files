@@ -1756,10 +1756,10 @@
           <mxGeometry x="-1960" y="1578" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-130" value=":订单状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2010" y="1910" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1970" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-131" value=":订单状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2010" y="1805" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1977.5" y="1779" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-132" value=":订单状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2187" y="1910" width="120" height="60" as="geometry" />
@@ -1771,7 +1771,7 @@
           <mxGeometry x="-2187" y="2015" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-135" value=":订单状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2010" y="2020" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1970" y="2105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-136" value=":订单状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1740" y="2105" width="120" height="60" as="geometry" />
