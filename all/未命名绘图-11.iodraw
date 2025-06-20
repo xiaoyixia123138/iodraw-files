@@ -1646,8 +1646,8 @@
             <mxPoint x="-2017.5" y="1540.14" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-78" value="6.返回总价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2055" y="1470" width="80" height="30" as="geometry" />
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-78" value="4.取餐" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2045" y="1470" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-79" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -1688,6 +1688,16 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-1830" y="1630" as="sourcePoint" />
             <mxPoint x="-1970" y="1630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1922" y="1480" />
+              <mxPoint x="-2060" y="1480" />
+            </Array>
+            <mxPoint x="-1922" y="1540" as="sourcePoint" />
+            <mxPoint x="-2060" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
