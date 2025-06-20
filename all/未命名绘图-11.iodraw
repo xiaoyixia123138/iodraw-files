@@ -1761,6 +1761,9 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-130" value="骑手已接单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1970" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-131" target="CmwNRCAu6_P1rd_mQ4pW-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-131" value="待支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1970" y="1779" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1814,6 +1817,9 @@
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-150" value="用户确认收货" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2150" y="2035" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-152" value="用户完成支付" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1870" y="1778" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
