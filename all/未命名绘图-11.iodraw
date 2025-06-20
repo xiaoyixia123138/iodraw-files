@@ -1592,13 +1592,13 @@
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-61" value="3.验证用户余额和库存" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2062" y="855" as="sourcePoint" />
+            <mxPoint x="-2070" y="900" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-2062" y="870" />
-              <mxPoint x="-2032" y="870" />
-              <mxPoint x="-2032" y="885" />
+              <mxPoint x="-2070" y="915" />
+              <mxPoint x="-2040" y="915" />
+              <mxPoint x="-2040" y="930" />
             </Array>
-            <mxPoint x="-2057" y="885" as="targetPoint" />
+            <mxPoint x="-2065" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
