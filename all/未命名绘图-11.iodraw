@@ -1726,8 +1726,8 @@
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-90" value="1.发送接单通知" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-2057.5" y="1550.14" as="sourcePoint" />
-            <mxPoint x="-2007.5" y="1550.14" as="targetPoint" />
+            <mxPoint x="-1890" y="1460" as="sourcePoint" />
+            <mxPoint x="-1840" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
