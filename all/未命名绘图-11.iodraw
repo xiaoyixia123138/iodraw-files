@@ -1703,7 +1703,7 @@
             <mxPoint x="-1757.5" y="1548.82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-83" value="1.发送接单通知" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-83" value="2.选择接单" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-1848" y="1538.96" as="sourcePoint" />
             <mxPoint x="-1798" y="1538.96" as="targetPoint" />
