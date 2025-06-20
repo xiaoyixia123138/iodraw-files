@@ -1516,11 +1516,22 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CmwNRCAu6_P1rd_mQ4pW-26">
           <mxGeometry x="50" y="125" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-29" value="2.生成订单" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="CmwNRCAu6_P1rd_mQ4pW-26" target="CmwNRCAu6_P1rd_mQ4pW-28">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-29" value="2.验证用户余额和库存" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="CmwNRCAu6_P1rd_mQ4pW-26" target="CmwNRCAu6_P1rd_mQ4pW-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="105" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="85" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-49" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CmwNRCAu6_P1rd_mQ4pW-26">
+          <mxGeometry x="50" y="220" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-50" value="2.生成订单" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="CmwNRCAu6_P1rd_mQ4pW-26" target="CmwNRCAu6_P1rd_mQ4pW-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1597,17 +1608,6 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-2220" y="1150" as="sourcePoint" />
             <mxPoint x="-2140" y="1150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-49" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-2067" y="875" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-50" value="2.生成订单" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-49">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2062" y="855" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-2032" y="885" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
