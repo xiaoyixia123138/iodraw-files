@@ -1682,14 +1682,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-77" value="2.查看订单详情，选择接单" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-70">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-77" value="2.查看订单详情，选择接单" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-80">
           <mxGeometry x="-0.0051" relative="1" as="geometry">
             <mxPoint x="-1843.45" y="1558.17" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1887.5" y="1558.14" />
-              <mxPoint x="-1850.5" y="1558.14" />
-              <mxPoint x="-1850.5" y="1540.14" />
-              <mxPoint x="-1887.5" y="1540.14" />
+              <mxPoint x="-1888" y="1550" />
+              <mxPoint x="-1888" y="1558" />
+              <mxPoint x="-1850" y="1558" />
+              <mxPoint x="-1850" y="1540" />
+              <mxPoint x="-1888" y="1540" />
             </Array>
             <mxPoint x="-1887.46" y="1558.17" as="targetPoint" />
             <mxPoint as="offset" />
@@ -1705,7 +1706,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-80" value="骑手端APP" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-2327.5" y="1690" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1700" y="1530.1399999999999" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-81" value="商家" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-2085" y="1690" width="90" height="40" as="geometry" />
