@@ -1706,7 +1706,7 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-87" value="5.核对订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="1415" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-88" value="6.交付餐品" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-88" value="6.交付餐品" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
           <mxGeometry x="-0.0095" width="80" relative="1" as="geometry">
             <mxPoint x="-2010" y="1460" as="sourcePoint" />
             <mxPoint x="-1960" y="1460" as="targetPoint" />
