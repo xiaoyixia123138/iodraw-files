@@ -1584,10 +1584,11 @@
             <mxPoint x="-2107.5" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-59" value="余额不足" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-59" value="余额不足" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-63">
+          <mxGeometry x="-1" y="-40" relative="1" as="geometry">
             <mxPoint x="-2082" y="900" as="sourcePoint" />
             <mxPoint x="-2160" y="900" as="targetPoint" />
+            <mxPoint x="40" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-61" value="余额充足" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
@@ -1600,8 +1601,14 @@
             <mxPoint x="-2065" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-64" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2082" y="900" as="sourcePoint" />
+            <mxPoint x="-2160" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-63" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
-          <mxGeometry x="-2160" y="900" width="20" height="20" as="geometry" />
+          <mxGeometry x="-2170" y="890" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
