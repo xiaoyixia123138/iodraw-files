@@ -1587,6 +1587,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-58" value="1.选择菜品下单" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-26">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-2250" y="850" as="sourcePoint" />
+            <mxPoint x="-2107.5" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
