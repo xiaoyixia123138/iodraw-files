@@ -1501,6 +1501,104 @@
             <mxPoint x="-2130" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-24" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="-2215" y="70" width="20" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CmwNRCAu6_P1rd_mQ4pW-24">
+          <mxGeometry x="5" y="100" width="10" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-26" value=":系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-2107" y="70" width="100" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CmwNRCAu6_P1rd_mQ4pW-26">
+          <mxGeometry x="45" y="98" width="10" height="312" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CmwNRCAu6_P1rd_mQ4pW-26">
+          <mxGeometry x="50" y="125" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-29" value="2.生成订单" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="CmwNRCAu6_P1rd_mQ4pW-26" target="CmwNRCAu6_P1rd_mQ4pW-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="105" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-30" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="-1860" y="70" width="20" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CmwNRCAu6_P1rd_mQ4pW-30">
+          <mxGeometry x="5" y="180" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CmwNRCAu6_P1rd_mQ4pW-30">
+          <mxGeometry x="10" y="210" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-33" value="4.烹饪备餐" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="CmwNRCAu6_P1rd_mQ4pW-30" target="CmwNRCAu6_P1rd_mQ4pW-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15" y="190" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="45" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-34" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="70" width="20" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CmwNRCAu6_P1rd_mQ4pW-34">
+          <mxGeometry x="6" y="178" width="10" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-36" value=":用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2230" y="110" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-37" value=":商家" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1880" y="110" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-38" value=":骑手" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1675" y="110" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-39" value="5.通知备餐完成" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1970" y="350" as="sourcePoint" />
+            <mxPoint x="-2050" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-40" value="1.选择菜品下单" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-26">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-2200" y="170" as="sourcePoint" />
+            <mxPoint x="-2120" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-41" value="3.推送订单" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-30">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-2050" y="250" as="sourcePoint" />
+            <mxPoint x="-1970" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-42" value="3.推送订单" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0013" width="80" relative="1" as="geometry">
+            <mxPoint x="-2050" y="248" as="sourcePoint" />
+            <mxPoint x="-1650.5" y="248" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-43" value="6.通知骑手取餐" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-34">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-2050" y="370" as="sourcePoint" />
+            <mxPoint x="-1970" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-44" value="7.取餐并送达" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1660" y="420" as="sourcePoint" />
+            <mxPoint x="-1740" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-45" value="8.确认收货，完成订单" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-26">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-2200" y="480" as="sourcePoint" />
+            <mxPoint x="-2120" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
