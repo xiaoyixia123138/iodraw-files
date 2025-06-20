@@ -1782,6 +1782,10 @@
         <mxCell id="4yTwrtzVH1lXAInSacQP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-136" target="CmwNRCAu6_P1rd_mQ4pW-130">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1680" y="2020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1680" y="2170" />
+              <mxPoint x="-2007" y="2170" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-136" value="商家已接单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1835,7 +1839,7 @@
           <mxGeometry x="-1685" y="1870" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4yTwrtzVH1lXAInSacQP-2" value="商家完成备餐" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1670" y="1985" width="100" height="30" as="geometry" />
+          <mxGeometry x="-1915" y="2175" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
