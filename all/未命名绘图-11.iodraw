@@ -1779,7 +1779,7 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-136" value=":订单状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1740" y="2105" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-137" value=":订单状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-137" value="待骑手接单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1740" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-138" value="待商家接单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
