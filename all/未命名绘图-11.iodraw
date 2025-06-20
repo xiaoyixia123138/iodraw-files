@@ -1707,8 +1707,8 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-80" value="骑手端APP" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-2327.5" y="1690" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-81" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-2397.5" y="1550.14" width="90" height="40" as="geometry" />
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-81" value="商家" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-2085" y="1690" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
