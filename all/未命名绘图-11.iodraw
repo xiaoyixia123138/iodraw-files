@@ -1427,7 +1427,7 @@
           <mxGeometry x="-1870" y="60" width="20" height="590" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CmwNRCAu6_P1rd_mQ4pW-3">
-          <mxGeometry x="5" y="180" width="10" height="110" as="geometry" />
+          <mxGeometry x="5" y="180" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CmwNRCAu6_P1rd_mQ4pW-3">
           <mxGeometry x="10" y="210" width="10" height="40" as="geometry" />
@@ -1464,7 +1464,7 @@
             <mxPoint x="-2130" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-13" value="推送订单" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-3">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-13" value="3.推送订单" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-3">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-2060" y="240" as="sourcePoint" />
             <mxPoint x="-1980" y="240" as="targetPoint" />
