@@ -1755,13 +1755,16 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-95" value="9.更新订单状态“已完成”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1960" y="1578" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-130" target="CmwNRCAu6_P1rd_mQ4pW-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-130" value="骑手已接单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1970" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-131" value="待支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1970" y="1779" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-132" value=":订单状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-132" value="配送中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2200" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-133" target="CmwNRCAu6_P1rd_mQ4pW-131">
@@ -1802,6 +1805,9 @@
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-146" value="骑手接单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1840" y="1940" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-148" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2065" y="1938" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
