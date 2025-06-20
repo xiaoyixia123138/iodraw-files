@@ -1576,18 +1576,6 @@
             <mxPoint x="-1990" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-44" value="7.取餐并送达" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1680" y="1090" as="sourcePoint" />
-            <mxPoint x="-1760" y="1090" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-45" value="8.确认收货，完成订单" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-26">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-2220" y="1150" as="sourcePoint" />
-            <mxPoint x="-2140" y="1150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
