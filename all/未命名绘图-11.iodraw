@@ -1659,17 +1659,6 @@
             <mxPoint x="-2017.5" y="1540.14" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-75" value="2.搜索商品" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=0.689;exitY=1.046;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2123.49" y="1570.18" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-2130.5" y="1570.14" />
-              <mxPoint x="-2130.5" y="1620.14" />
-              <mxPoint x="-2167.5" y="1620.14" />
-            </Array>
-            <mxPoint x="-2167.5" y="1570.18" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-78" value="6.返回总价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2217.5" y="1480.14" width="80" height="30" as="geometry" />
         </mxCell>
@@ -1697,7 +1686,7 @@
             <mxPoint x="-1798" y="1538.96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-84" value="4.添加商品项并更新数量" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-68">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-84" value="3.反馈结果" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-68">
           <mxGeometry x="-0.0051" relative="1" as="geometry">
             <mxPoint x="-1730" y="1568" as="sourcePoint" />
             <Array as="points">
