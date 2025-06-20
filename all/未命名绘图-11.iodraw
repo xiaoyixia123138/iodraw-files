@@ -1600,6 +1600,9 @@
             <mxPoint x="-2065" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-63" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="-2160" y="900" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
