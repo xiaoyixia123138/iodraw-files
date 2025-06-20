@@ -1590,10 +1590,15 @@
             <mxPoint x="-2160" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-60" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-2070" y="910" as="sourcePoint" />
-            <mxPoint x="-1910" y="910" as="targetPoint" />
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-61" value="3.验证用户余额和库存" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2062" y="855" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-2062" y="870" />
+              <mxPoint x="-2032" y="870" />
+              <mxPoint x="-2032" y="885" />
+            </Array>
+            <mxPoint x="-2057" y="885" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
