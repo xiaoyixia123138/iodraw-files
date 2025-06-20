@@ -1682,7 +1682,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-77" value="5.计算总价" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-70">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-77" value="2.查看订单详情，选择接单" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-70">
           <mxGeometry x="-0.0051" relative="1" as="geometry">
             <mxPoint x="-1843.45" y="1558.17" as="sourcePoint" />
             <Array as="points">
