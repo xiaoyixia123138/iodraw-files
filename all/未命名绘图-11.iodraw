@@ -1779,7 +1779,7 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-134" value="已完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2280" y="2265" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4yTwrtzVH1lXAInSacQP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-136">
+        <mxCell id="4yTwrtzVH1lXAInSacQP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-136" target="CmwNRCAu6_P1rd_mQ4pW-130">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1680" y="2020" as="targetPoint" />
           </mxGeometry>
