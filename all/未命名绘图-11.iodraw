@@ -1752,6 +1752,9 @@
             <mxPoint x="-1970" y="1610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-95" value="9.更新订单状态“已完成”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1995" y="1578" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
