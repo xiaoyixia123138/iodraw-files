@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="9EE0GrRKnpxt_D8ie5cB">
-    <mxGraphModel dx="2819" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3177" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1516,7 +1516,7 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CmwNRCAu6_P1rd_mQ4pW-26">
           <mxGeometry x="50" y="125" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-29" value="2.验证用户余额和库存" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="CmwNRCAu6_P1rd_mQ4pW-26" target="CmwNRCAu6_P1rd_mQ4pW-28">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-29" value="3.验证用户余额和库存" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="CmwNRCAu6_P1rd_mQ4pW-26" target="CmwNRCAu6_P1rd_mQ4pW-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="105" as="sourcePoint" />
             <Array as="points">
@@ -1577,17 +1577,6 @@
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-52" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CmwNRCAu6_P1rd_mQ4pW-51">
           <mxGeometry x="45" y="98" width="10" height="312" as="geometry" />
-        </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="CmwNRCAu6_P1rd_mQ4pW-51">
-          <mxGeometry x="50" y="220" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-56" value="2.生成订单" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="CmwNRCAu6_P1rd_mQ4pW-51" target="CmwNRCAu6_P1rd_mQ4pW-55">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="200" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="85" y="230" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-58" value="2.发送订单信息" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-26">
           <mxGeometry width="80" relative="1" as="geometry">
