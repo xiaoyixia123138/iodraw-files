@@ -1783,7 +1783,7 @@
           <mxGeometry x="-1740" y="1779" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-139" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-2045" y="1880" width="30" height="30" as="geometry" />
+          <mxGeometry x="-2290" y="1790" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
