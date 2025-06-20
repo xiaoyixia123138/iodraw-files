@@ -1407,7 +1407,7 @@
           <mxGeometry x="-2225" y="60" width="20" height="590" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-2" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-2117" y="60" width="100" height="300" as="geometry" />
+          <mxGeometry x="-2117" y="60" width="100" height="590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
