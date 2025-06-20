@@ -1586,8 +1586,8 @@
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-59" value="余额不足" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2080" y="910" as="sourcePoint" />
-            <mxPoint x="-2160" y="910" as="targetPoint" />
+            <mxPoint x="-2082" y="900" as="sourcePoint" />
+            <mxPoint x="-2160" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-61" value="余额充足" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
