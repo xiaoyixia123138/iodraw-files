@@ -1713,12 +1713,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1907" y="1470" />
-              <mxPoint x="-1820" y="1470" />
-              <mxPoint x="-1820" y="1450" />
+              <mxPoint x="-1817" y="1470" />
+              <mxPoint x="-1817" y="1450" />
             </Array>
             <mxPoint x="-1907" y="1530" as="sourcePoint" />
             <mxPoint x="-2045" y="1450" as="targetPoint" />
