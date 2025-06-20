@@ -1651,10 +1651,10 @@
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-79" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-2170" y="1480" as="sourcePoint" />
-            <mxPoint x="-2247.5" y="1480.14" as="targetPoint" />
+            <mxPoint x="-1977.5" y="1479.05" as="sourcePoint" />
+            <mxPoint x="-2055" y="1479.19" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2190" y="1480" />
+              <mxPoint x="-1997.5" y="1479.05" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1705,6 +1705,12 @@
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-87" value="5.核对订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="1415" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-88" value="1.发送接单通知" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-2057.5" y="1550.14" as="sourcePoint" />
+            <mxPoint x="-2007.5" y="1550.14" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
