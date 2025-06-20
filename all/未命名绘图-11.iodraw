@@ -1627,8 +1627,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1932" y="1470" />
-              <mxPoint x="-2372" y="1470" />
-              <mxPoint x="-2372" y="1450" />
+              <mxPoint x="-2070" y="1470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1648,7 +1647,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-78" value="6.返回总价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2217.5" y="1480.14" width="80" height="30" as="geometry" />
+          <mxGeometry x="-2055" y="1470" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-79" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
