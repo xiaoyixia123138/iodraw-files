@@ -1782,6 +1782,11 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-138" value=":订单状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1740" y="1779" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-139">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2210" y="1805" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-139" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="-2290" y="1790" width="30" height="30" as="geometry" />
         </mxCell>
