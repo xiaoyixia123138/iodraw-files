@@ -1651,8 +1651,11 @@
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-79" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-2107.5" y="1480.14" as="sourcePoint" />
+            <mxPoint x="-2170" y="1480" as="sourcePoint" />
             <mxPoint x="-2247.5" y="1480.14" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2190" y="1480" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-80" value="骑手端APP" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
