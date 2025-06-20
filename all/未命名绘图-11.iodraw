@@ -1620,7 +1620,7 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-67" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-2417.5" y="1530.14" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-68" value="商品列表" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-68" value="订单系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-2197.5" y="1530.14" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-70" target="CmwNRCAu6_P1rd_mQ4pW-67">
