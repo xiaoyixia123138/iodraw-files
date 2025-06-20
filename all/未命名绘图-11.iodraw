@@ -1820,7 +1820,7 @@
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-152">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1794.9999999999998" y="1929.9999999999995" as="targetPoint" />
+            <mxPoint x="-1795" y="2020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-152" value="用户完成支付" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
