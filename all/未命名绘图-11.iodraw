@@ -1634,23 +1634,10 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-70" value="骑手" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1977.5" y="1530.14" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-71" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-67" target="CmwNRCAu6_P1rd_mQ4pW-68">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2277.5" y="1550.14" as="sourcePoint" />
-            <mxPoint x="-2227.5" y="1500.14" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-72" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-68" target="CmwNRCAu6_P1rd_mQ4pW-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2127.5" y="1550.14" as="sourcePoint" />
             <mxPoint x="-2067.5" y="1549.94" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-73" value="1.传入商品ID和数量" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-2297.5" y="1540.14" as="sourcePoint" />
-            <mxPoint x="-2247.5" y="1540.14" as="targetPoint" />
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-74" value="1.发送接单通知" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
