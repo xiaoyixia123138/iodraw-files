@@ -1740,7 +1740,7 @@
             <mxPoint x="-1785" y="1430.14" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-92" value="送达餐品" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-92" value="8.确认收货" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-1770" y="1460" as="sourcePoint" />
             <mxPoint x="-1720" y="1460" as="targetPoint" />
