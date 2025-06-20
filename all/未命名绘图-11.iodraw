@@ -1418,6 +1418,9 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-5" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2240" y="100" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-6" value="商家" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1890" y="100" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
