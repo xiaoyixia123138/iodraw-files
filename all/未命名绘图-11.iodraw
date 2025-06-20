@@ -1692,10 +1692,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-80" value="骑手端APP" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1700" y="1530.1399999999999" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1760" y="1530.1399999999999" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-81" value="商家" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-2085" y="1690" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-82" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1887.5" y="1548.82" as="sourcePoint" />
+            <mxPoint x="-1757.5" y="1548.82" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-83" value="1.发送接单通知" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1848" y="1538.96" as="sourcePoint" />
+            <mxPoint x="-1798" y="1538.96" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
