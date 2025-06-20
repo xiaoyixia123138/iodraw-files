@@ -1697,13 +1697,12 @@
             <mxPoint x="-1798" y="1538.96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-84" value="4.添加商品项并更新数量" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=0.689;exitY=1.046;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.2;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-84" value="4.添加商品项并更新数量" style="html=1;align=left;spacingLeft=2;endArrow=none;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" target="CmwNRCAu6_P1rd_mQ4pW-68">
           <mxGeometry x="-0.0051" relative="1" as="geometry">
-            <mxPoint x="-1910.5" y="1568.1399999999999" as="sourcePoint" />
+            <mxPoint x="-1730" y="1568" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1730" y="1568" />
               <mxPoint x="-1730" y="1618" />
-              <mxPoint x="-1954" y="1618" />
+              <mxPoint x="-2152" y="1618" />
             </Array>
             <mxPoint x="-1954.51" y="1568.1399999999999" as="targetPoint" />
             <mxPoint as="offset" />
