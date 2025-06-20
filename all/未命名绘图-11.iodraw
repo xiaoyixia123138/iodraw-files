@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="9EE0GrRKnpxt_D8ie5cB">
-    <mxGraphModel dx="3409" dy="2257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2927" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1758,10 +1758,7 @@
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-96" value=":网页端" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-2151.25" y="1725" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-97" target="CmwNRCAu6_P1rd_mQ4pW-113">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-97" value=":老师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-97" value=":用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2291.25" y="1720" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-98" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;width=-0.11494252873563049;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-99" target="CmwNRCAu6_P1rd_mQ4pW-102">
