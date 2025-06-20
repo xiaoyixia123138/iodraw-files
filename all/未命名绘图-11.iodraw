@@ -1631,7 +1631,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-70" value="购物车" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-70" value="骑手" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1977.5" y="1530.14" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CmwNRCAu6_P1rd_mQ4pW-71" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CmwNRCAu6_P1rd_mQ4pW-67" target="CmwNRCAu6_P1rd_mQ4pW-68">
@@ -1703,6 +1703,9 @@
             <mxPoint x="-2107.5" y="1480.14" as="sourcePoint" />
             <mxPoint x="-2247.5" y="1480.14" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CmwNRCAu6_P1rd_mQ4pW-80" value="骑手端APP" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-2327.5" y="1690" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
