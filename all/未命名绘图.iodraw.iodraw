@@ -539,8 +539,8 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-172" value="账户系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1120" y="3100" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-173" value="账户系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="3200" width="110" height="50" as="geometry" />
+        <mxCell id="vp-67DNqNuuONoa4qzp3-173" value="吐钞器" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="3020" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
