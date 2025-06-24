@@ -519,7 +519,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-164" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="2920" width="30" height="60" as="geometry" />
+          <mxGeometry x="750" y="2925" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-166" value=":ATM系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="13" y="2840" width="80" height="30" as="geometry" />
@@ -542,11 +542,14 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-173" value="吐钞器" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1260" y="3000" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-176" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vp-67DNqNuuONoa4qzp3-168">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-176" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-164" target="vp-67DNqNuuONoa4qzp3-168">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="3090" as="sourcePoint" />
             <mxPoint x="850" y="3040" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-177" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="795" y="2928" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
