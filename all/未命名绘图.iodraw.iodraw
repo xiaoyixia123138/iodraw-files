@@ -399,7 +399,7 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-140" value=":User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-95" y="2880" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-141" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="vp-67DNqNuuONoa4qzp3-139">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-141" value="1.插卡" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="vp-67DNqNuuONoa4qzp3-139">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-70" y="2950" as="sourcePoint" />
             <mxPoint x="10" y="2950" as="targetPoint" />
