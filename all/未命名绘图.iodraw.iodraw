@@ -515,7 +515,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-164" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-164" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-57" y="3650" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
