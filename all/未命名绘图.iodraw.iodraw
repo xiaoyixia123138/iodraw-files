@@ -547,8 +547,8 @@
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-178" value="1.插卡" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="827" y="2920" as="sourcePoint" />
-            <mxPoint x="907" y="2920" as="targetPoint" />
+            <mxPoint x="827" y="2898" as="sourcePoint" />
+            <mxPoint x="907" y="2898" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-179" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-168" target="vp-67DNqNuuONoa4qzp3-170">
@@ -600,8 +600,8 @@
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-189" value="4.输入密码" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="805" y="2940" as="sourcePoint" />
-            <mxPoint x="960" y="2945" as="targetPoint" />
+            <mxPoint x="805" y="2918" as="sourcePoint" />
+            <mxPoint x="960" y="2923" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-190" value="5.验证密码" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
@@ -615,6 +615,12 @@
             <mxPoint x="1355" y="2978.57" as="sourcePoint" />
             <mxPoint x="1215" y="2978.57" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-193" value="7.选择取款并输入金额" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="805" y="2940" as="sourcePoint" />
+            <mxPoint x="960" y="2945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
