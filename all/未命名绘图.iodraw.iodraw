@@ -117,7 +117,7 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-47" value="用户浏览商品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-27" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-48" value="选择商品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-125" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -132,6 +132,18 @@
             <mxPoint x="-70" y="720" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-72" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-53" value="选择商品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.444;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="770" as="sourcePoint" />
+            <mxPoint x="80" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="78" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
