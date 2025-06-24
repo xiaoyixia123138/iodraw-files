@@ -623,6 +623,12 @@
             <mxPoint x="960" y="2945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-194" value="5.验证密码" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1218" y="2950" as="sourcePoint" />
+            <mxPoint x="1270" y="3150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
