@@ -706,6 +706,9 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-210" value="密码输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="3690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-212" target="vp-67DNqNuuONoa4qzp3-213">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-212" value="功能选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="3690" width="120" height="60" as="geometry" />
         </mxCell>
@@ -713,7 +716,7 @@
           <mxGeometry x="1340" y="3690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-214" value="余额不足" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="3850" width="120" height="60" as="geometry" />
+          <mxGeometry x="1340" y="3840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-215" target="vp-67DNqNuuONoa4qzp3-217">
           <mxGeometry relative="1" as="geometry" />
