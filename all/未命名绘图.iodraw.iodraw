@@ -110,7 +110,7 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-37" value="商家" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="275" y="540" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-38" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-38" value="2.选择商品并加入购物车" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="vp-67DNqNuuONoa4qzp3-34">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint y="600" as="sourcePoint" />
             <mxPoint x="80" y="600" as="targetPoint" />
