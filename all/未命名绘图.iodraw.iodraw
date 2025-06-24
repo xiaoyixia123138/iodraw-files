@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="3_40VAojfTvGZSL5Ptv7">
-    <mxGraphModel dx="1161" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="962" dy="278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -263,7 +263,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-84" value="用户确认收货" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-81.5" y="1740" width="120" height="60" as="geometry" />
+          <mxGeometry x="-72.5" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10.999999999999986" y="1840" as="targetPoint" />
+            <mxPoint x="-10.999999999999986" y="1800" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
