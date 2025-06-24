@@ -477,7 +477,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-158" value="4.输入密码" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-158" value="4.输入密码" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="vp-67DNqNuuONoa4qzp3-151">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-70" y="3280" as="sourcePoint" />
             <mxPoint x="313" y="3280.42" as="targetPoint" />
