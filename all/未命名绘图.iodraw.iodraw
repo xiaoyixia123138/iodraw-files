@@ -686,8 +686,8 @@
             <mxPoint x="860" y="3570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-208" value="生成订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="1230" width="120" height="60" as="geometry" />
+        <mxCell id="vp-67DNqNuuONoa4qzp3-208" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="3570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
