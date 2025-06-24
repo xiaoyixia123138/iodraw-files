@@ -641,7 +641,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-197" value="10.返回余额充足" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-197" value="10.返回余额充足" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1">
           <mxGeometry x="0.1019" y="-53" width="80" relative="1" as="geometry">
             <mxPoint x="1100" y="3040" as="sourcePoint" />
             <mxPoint x="1220" y="3150" as="targetPoint" />
