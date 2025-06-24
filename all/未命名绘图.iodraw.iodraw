@@ -391,7 +391,7 @@
           <mxGeometry x="-125" y="2798" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-138" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="2840" width="20" height="1040" as="geometry" />
+          <mxGeometry x="-80" y="2840" width="20" height="760" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-163" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="vp-67DNqNuuONoa4qzp3-138">
           <mxGeometry x="5" y="110" width="10" height="570" as="geometry" />
