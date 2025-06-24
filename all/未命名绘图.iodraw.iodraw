@@ -533,6 +533,11 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-171" value="卡片验证系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1230" y="2728" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-172">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="3280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-172" value="账户系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1230" y="3190" width="110" height="50" as="geometry" />
         </mxCell>
