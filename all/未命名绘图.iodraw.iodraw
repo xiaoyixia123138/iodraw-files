@@ -340,8 +340,8 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-119" value="*..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="13" y="2188" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-120" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-85" y="2398" width="50" height="30" as="geometry" />
+        <mxCell id="vp-67DNqNuuONoa4qzp3-120" value="4.学生管理系统对象图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="2398" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
