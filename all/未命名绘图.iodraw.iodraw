@@ -734,7 +734,7 @@
           <mxGeometry x="920" y="3850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-217" value="交易完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="3570" width="120" height="60" as="geometry" />
+          <mxGeometry x="985" y="3570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-219" value="插卡" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vp-67DNqNuuONoa4qzp3-209">
           <mxGeometry x="0.2539" y="-30" width="80" relative="1" as="geometry">
@@ -757,6 +757,9 @@
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-233" value="余额充足" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1325" y="3568" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-234" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="3568" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
