@@ -689,8 +689,14 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-208" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="3570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-209" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-209" value="卡片插入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="3770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-210" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="3770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-210" target="vp-67DNqNuuONoa4qzp3-210">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
