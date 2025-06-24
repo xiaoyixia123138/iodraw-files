@@ -586,8 +586,8 @@
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-185" value="1.插卡" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="820" y="2950" as="sourcePoint" />
-            <mxPoint x="900" y="2950" as="targetPoint" />
+            <mxPoint x="1130" y="2880" as="sourcePoint" />
+            <mxPoint x="1210" y="2820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
