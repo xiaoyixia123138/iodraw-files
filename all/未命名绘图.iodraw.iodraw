@@ -171,6 +171,9 @@
             <mxPoint x="10.000000000000014" y="880" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-59" value="系统校验库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
