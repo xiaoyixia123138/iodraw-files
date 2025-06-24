@@ -705,7 +705,7 @@
           <mxGeometry x="1020" y="3850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-215" value="吐钞中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="3920" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="3850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-216" value="取消状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="4000" width="120" height="60" as="geometry" />
