@@ -282,8 +282,8 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-88" value="库存不足" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="105" y="1028" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-89" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="1988" width="50" height="30" as="geometry" />
+        <mxCell id="vp-67DNqNuuONoa4qzp3-89" value="3.学生管理系统类图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="1988" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
