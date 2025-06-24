@@ -617,10 +617,10 @@
             <mxPoint x="1362.5" y="2940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-191" value="4.返回卡片验证通过" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-191" value="7.密码通过" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry y="30" relative="1" as="geometry">
-            <mxPoint x="950" y="2990" as="sourcePoint" />
-            <mxPoint x="810" y="2990" as="targetPoint" />
+            <mxPoint x="1355" y="2978.57" as="sourcePoint" />
+            <mxPoint x="1215" y="2978.57" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
