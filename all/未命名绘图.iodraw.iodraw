@@ -31,8 +31,11 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-10" value="查看借阅记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="180" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-11" value="管理书籍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="190" width="95" height="60" as="geometry" />
+        <mxCell id="vp-67DNqNuuONoa4qzp3-11" value="添加书籍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="270" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-12" value="添加书籍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
