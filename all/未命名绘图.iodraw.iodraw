@@ -209,7 +209,7 @@
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vp-67DNqNuuONoa4qzp3-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-50" y="1550" as="sourcePoint" />
+            <mxPoint x="-50" y="1540" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-71" value="商家处理订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -217,14 +217,14 @@
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-72" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-119" y="1550" as="sourcePoint" />
-            <mxPoint x="119" y="1550" as="targetPoint" />
+            <mxPoint x="-119" y="1540" as="sourcePoint" />
+            <mxPoint x="119" y="1540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1.0000000000000142" y="1590" as="targetPoint" />
-            <mxPoint x="1.0000000000000142" y="1550" as="sourcePoint" />
+            <mxPoint x="1.4210854715202004e-14" y="1540" as="targetPoint" />
+            <mxPoint x="1.4210854715202004e-14" y="1500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
