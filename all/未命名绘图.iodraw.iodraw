@@ -533,8 +533,11 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-170" value="卡片验证系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="930" y="3030" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-171" value="卡片验证系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-171" value="密码验证系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="950" y="3100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-172" value="密码验证系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="3100" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
