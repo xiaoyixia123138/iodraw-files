@@ -196,7 +196,7 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-64" value="库存充足" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2.5" y="1158" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-65" value="生成订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-65" value="等待用户支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
