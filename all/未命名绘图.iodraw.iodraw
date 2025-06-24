@@ -8,7 +8,11 @@
           <mxGeometry x="-5" y="28" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-2" target="vp-67DNqNuuONoa4qzp3-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-2" value="读者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="30" height="60" as="geometry" />
@@ -20,7 +24,7 @@
           <mxGeometry x="-60" y="180" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-6" value="借书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="180" width="95" height="60" as="geometry" />
+          <mxGeometry x="47.5" y="190" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-7" value="还书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="180" width="95" height="60" as="geometry" />
