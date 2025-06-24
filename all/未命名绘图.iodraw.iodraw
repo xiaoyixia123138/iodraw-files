@@ -96,7 +96,18 @@
           <mxGeometry x="-70" y="448" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-33" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="500" width="20" height="540" as="geometry" />
+          <mxGeometry x="-10" y="500" width="25" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-39" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="vp-67DNqNuuONoa4qzp3-33">
+          <mxGeometry x="15" y="120" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-40" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="vp-67DNqNuuONoa4qzp3-39" parent="vp-67DNqNuuONoa4qzp3-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="100" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="50" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-34" value=":系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="90" y="500" width="100" height="540" as="geometry" />
@@ -110,10 +121,10 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-37" value="商家" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="275" y="540" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-38" value="2.选择商品并加入购物车" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="vp-67DNqNuuONoa4qzp3-34">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-38" value="2.选择商品并加入购物车" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint y="600" as="sourcePoint" />
-            <mxPoint x="80" y="600" as="targetPoint" />
+            <mxPoint y="680" as="sourcePoint" />
+            <mxPoint x="139.5" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
