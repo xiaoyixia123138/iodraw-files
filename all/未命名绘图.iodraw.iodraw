@@ -780,9 +780,12 @@
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1410" y="3760" as="sourcePoint" />
-            <mxPoint x="1410" y="3850" as="targetPoint" />
+            <mxPoint x="1180.52" y="3910" as="sourcePoint" />
+            <mxPoint x="1180.52" y="4000" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-241" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="3490" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
