@@ -528,10 +528,10 @@
           <mxGeometry x="725" y="2838" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-170" value="卡片验证系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="2930" width="110" height="50" as="geometry" />
+          <mxGeometry x="1440" y="2935" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-171" value="密码验证系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="2748" width="110" height="50" as="geometry" />
+          <mxGeometry x="1250" y="2660" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-172" value="账户系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="920" y="3090" width="110" height="50" as="geometry" />
