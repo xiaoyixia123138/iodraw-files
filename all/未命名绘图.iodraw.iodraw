@@ -649,10 +649,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-198" value="11.命令吐钞器吐钞" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.1192" y="-45" width="80" relative="1" as="geometry">
+          <mxGeometry x="0.2539" y="-30" width="80" relative="1" as="geometry">
             <mxPoint x="980" y="3020" as="sourcePoint" />
             <mxPoint x="910" y="3140" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-199" value="8.检查余额" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1140" y="3030" as="sourcePoint" />
+            <mxPoint x="1280" y="3160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
