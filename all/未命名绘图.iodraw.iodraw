@@ -548,8 +548,11 @@
             <mxPoint x="850" y="3040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-177" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="795" y="2928" width="50" height="30" as="geometry" />
+        <mxCell id="vp-67DNqNuuONoa4qzp3-178" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="810" y="2940" as="sourcePoint" />
+            <mxPoint x="890" y="2940" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
