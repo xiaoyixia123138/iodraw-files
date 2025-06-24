@@ -483,7 +483,7 @@
             <mxPoint x="313" y="3280.42" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-159" value="9.吐钞" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="vp-67DNqNuuONoa4qzp3-138">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-159" value="9.检测余额充足并吐钞" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="vp-67DNqNuuONoa4qzp3-138">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="508.1700000000001" y="3420.0000000000005" as="sourcePoint" />
             <mxPoint x="121.84" y="3420" as="targetPoint" />
