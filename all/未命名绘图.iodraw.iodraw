@@ -668,6 +668,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-202" value="13.吐钞并打印凭证" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry y="30" relative="1" as="geometry">
+            <mxPoint x="950" y="3140" as="sourcePoint" />
+            <mxPoint x="1010" y="3030" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
