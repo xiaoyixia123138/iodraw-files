@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="3_40VAojfTvGZSL5Ptv7">
-    <mxGraphModel dx="1623" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1211" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -547,8 +547,8 @@
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-178" value="1.插卡" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="805" y="2925" as="sourcePoint" />
-            <mxPoint x="885" y="2925" as="targetPoint" />
+            <mxPoint x="805" y="2910" as="sourcePoint" />
+            <mxPoint x="885" y="2910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-179" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-168" target="vp-67DNqNuuONoa4qzp3-170">
@@ -599,10 +599,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-188" value="4.返回卡片验证通过" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.84" y="44" relative="1" as="geometry">
+          <mxGeometry y="30" relative="1" as="geometry">
             <mxPoint x="940" y="2980" as="sourcePoint" />
             <mxPoint x="800" y="2980" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-189" value="1.插卡" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="815" y="2935" as="sourcePoint" />
+            <mxPoint x="970" y="2940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
