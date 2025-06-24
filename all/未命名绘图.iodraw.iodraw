@@ -453,16 +453,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-155" value="3.验证通过" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="vp-67DNqNuuONoa4qzp3-138">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-155" value="3.验证通过" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="3040" as="sourcePoint" />
-            <mxPoint x="20" y="3040" as="targetPoint" />
+            <mxPoint x="100.33" y="3090.0000000000005" as="sourcePoint" />
+            <mxPoint x="-72.50333333333337" y="3090.0000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="47.83" y="3090" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-156" value="1.插卡" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-156" value="1.插卡" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="vp-67DNqNuuONoa4qzp3-147">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-68" y="3129.58" as="sourcePoint" />
-            <mxPoint x="105" y="3129.58" as="targetPoint" />
+            <mxPoint x="105" y="3130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
