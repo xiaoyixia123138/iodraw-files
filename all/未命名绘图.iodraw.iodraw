@@ -689,6 +689,9 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-208" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="3570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-209" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="3770" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
