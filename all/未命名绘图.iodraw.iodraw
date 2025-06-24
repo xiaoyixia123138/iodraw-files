@@ -459,6 +459,12 @@
             <mxPoint x="20" y="3040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-156" value="1.插卡" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-60" y="2960" as="sourcePoint" />
+            <mxPoint x="113" y="2960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
