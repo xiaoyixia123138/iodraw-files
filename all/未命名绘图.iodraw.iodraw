@@ -531,7 +531,7 @@
           <mxGeometry x="920" y="2930" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-170" value="卡片验证系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="3030" width="110" height="50" as="geometry" />
+          <mxGeometry x="1131" y="2930" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-171" value="密码验证系统" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="930" y="3120" width="110" height="50" as="geometry" />
@@ -552,6 +552,12 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="810" y="2940" as="sourcePoint" />
             <mxPoint x="890" y="2940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-179" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vp-67DNqNuuONoa4qzp3-170">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="2955" as="sourcePoint" />
+            <mxPoint x="930" y="2965" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
