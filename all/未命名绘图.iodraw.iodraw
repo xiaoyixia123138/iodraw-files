@@ -700,9 +700,13 @@
             <mxPoint x="1120" y="3720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-210">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.179;entryY=1.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-210" target="vp-67DNqNuuONoa4qzp3-210">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="980" y="3850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="3850" />
+              <mxPoint x="941" y="3850" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-210" value="密码输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -749,7 +753,7 @@
           <mxGeometry x="1035" y="3698" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-226" value="密码错误" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="980" y="3778" width="70" height="30" as="geometry" />
+          <mxGeometry x="940" y="3820" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-228" value="选择取款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1250" y="3690" width="70" height="30" as="geometry" />
