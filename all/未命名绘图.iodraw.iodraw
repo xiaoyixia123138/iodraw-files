@@ -584,11 +584,15 @@
             <mxPoint x="1000" y="2970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-185" value="1.插卡" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-185" value="2.验证卡片" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.48" y="18" width="80" relative="1" as="geometry">
             <mxPoint x="1130" y="2880" as="sourcePoint" />
             <mxPoint x="1210" y="2820" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-186" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="2818" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
