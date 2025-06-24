@@ -7,6 +7,9 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-1" value="1.图书馆管理系统用例图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-5" y="28" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-2" target="vp-67DNqNuuONoa4qzp3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-2" value="读者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="30" height="60" as="geometry" />
         </mxCell>
