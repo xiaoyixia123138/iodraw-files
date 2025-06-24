@@ -598,10 +598,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-188" value="3.卡片验证通过" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-188" value="4.返回卡片验证通过" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.84" y="44" relative="1" as="geometry">
             <mxPoint x="940" y="2980" as="sourcePoint" />
-            <mxPoint x="1170" y="2900" as="targetPoint" />
+            <mxPoint x="800" y="2980" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
