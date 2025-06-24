@@ -180,12 +180,11 @@
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="1101" as="sourcePoint" />
-            <mxPoint x="83" y="1855" as="targetPoint" />
+            <mxPoint x="67.5" y="1060" as="sourcePoint" />
+            <mxPoint x="70.5" y="1814" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="80" y="1470" />
-              <mxPoint x="410" y="1470" />
-              <mxPoint x="410" y="1855" />
+              <mxPoint x="397.5" y="1060" />
+              <mxPoint x="397.5" y="1814" />
             </Array>
           </mxGeometry>
         </mxCell>
