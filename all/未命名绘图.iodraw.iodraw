@@ -423,16 +423,16 @@
           <mxGeometry x="265" y="2840" width="100" height="580" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-148" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="vp-67DNqNuuONoa4qzp3-147">
-          <mxGeometry x="48" y="110" width="10" height="80" as="geometry" />
+          <mxGeometry x="48" y="290" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-149" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="vp-67DNqNuuONoa4qzp3-147">
-          <mxGeometry x="58" y="140" width="10" height="40" as="geometry" />
+          <mxGeometry x="55" y="320" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-150" value="2.验证卡片" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="vp-67DNqNuuONoa4qzp3-147" target="vp-67DNqNuuONoa4qzp3-149">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="63" y="120" as="sourcePoint" />
+            <mxPoint x="60" y="300" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="93" y="150" />
+              <mxPoint x="90" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
