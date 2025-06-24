@@ -547,8 +547,8 @@
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-178" value="1.插卡" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="810" y="2940" as="sourcePoint" />
-            <mxPoint x="890" y="2940" as="targetPoint" />
+            <mxPoint x="805" y="2925" as="sourcePoint" />
+            <mxPoint x="885" y="2925" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-179" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-168" target="vp-67DNqNuuONoa4qzp3-170">
