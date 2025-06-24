@@ -19,8 +19,17 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-6" value="借书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="180" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-7" value="借书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="190" width="95" height="60" as="geometry" />
+        <mxCell id="vp-67DNqNuuONoa4qzp3-7" value="还书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="180" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
