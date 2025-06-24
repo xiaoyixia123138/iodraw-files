@@ -733,6 +733,9 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-216" value="取消状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="3850" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-217" target="vp-67DNqNuuONoa4qzp3-235">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-217" value="交易完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="985" y="3570" width="120" height="60" as="geometry" />
         </mxCell>
@@ -758,8 +761,11 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-233" value="余额充足" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1325" y="3568" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-234" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1105" y="3568" width="50" height="30" as="geometry" />
+        <mxCell id="vp-67DNqNuuONoa4qzp3-234" value="吐钞完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="3568" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-235" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="3480" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
