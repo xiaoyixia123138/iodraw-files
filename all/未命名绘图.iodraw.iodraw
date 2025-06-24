@@ -306,7 +306,7 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-108" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="vp-67DNqNuuONoa4qzp3-106">
           <mxGeometry y="80" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-109" value="+&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="vp-67DNqNuuONoa4qzp3-106">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-109" value="+ method(): 添加学生()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="vp-67DNqNuuONoa4qzp3-106">
           <mxGeometry y="88" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
