@@ -686,6 +686,15 @@
             <mxPoint x="860" y="3570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-207" value="3.验证通过" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115.33" y="3200.0000000000005" as="sourcePoint" />
+            <mxPoint x="-57.50333333333337" y="3200.0000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="62.83" y="3200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
