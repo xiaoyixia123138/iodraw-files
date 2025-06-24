@@ -542,10 +542,10 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-173" value="吐钞器" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1260" y="3000" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-175" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="810" y="3030" as="sourcePoint" />
-            <mxPoint x="970" y="3030" as="targetPoint" />
+        <mxCell id="vp-67DNqNuuONoa4qzp3-176" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vp-67DNqNuuONoa4qzp3-168">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="3090" as="sourcePoint" />
+            <mxPoint x="850" y="3040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
