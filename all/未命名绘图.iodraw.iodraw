@@ -796,14 +796,24 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-243" value="取消操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1255" y="3850" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-244" value="3.1验证不通过" style="html=1;verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-244" value="3.1验证不通过" style="html=1;verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;curved=0;rounded=0;startArrow=open;startFill=0;endFill=0;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-246">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="286.42" y="3150.0000000000005" as="sourcePoint" />
+            <mxPoint x="240" y="3150" as="sourcePoint" />
+            <mxPoint x="113.58666666666663" y="3150.0000000000005" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-245" value="" style="html=1;verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;curved=0;rounded=0;startArrow=open;startFill=0;endFill=0;" edge="1" parent="1" target="vp-67DNqNuuONoa4qzp3-246">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="3150" as="sourcePoint" />
             <mxPoint x="113.58666666666663" y="3150.0000000000005" as="targetPoint" />
             <Array as="points">
               <mxPoint x="233.92000000000002" y="3150" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-246" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="220" y="3135" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
