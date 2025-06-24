@@ -689,11 +689,14 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-208" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="3570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vp-67DNqNuuONoa4qzp3-209" target="vp-67DNqNuuONoa4qzp3-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-209" value="卡片插入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="3690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-210" value="密码输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="3690" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="3690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-212" value="功能选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="3850" width="120" height="60" as="geometry" />
@@ -719,6 +722,9 @@
             <mxPoint x="730" y="3740" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-221" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="3698" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
