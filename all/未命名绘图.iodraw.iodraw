@@ -115,6 +115,9 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-34" value=":系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="90" y="500" width="100" height="540" as="geometry" />
         </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-42" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="vp-67DNqNuuONoa4qzp3-34">
+          <mxGeometry x="45" y="100" width="10" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-35" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-25" y="540" width="50" height="30" as="geometry" />
         </mxCell>
@@ -130,8 +133,14 @@
             <mxPoint x="139.5" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-42" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="8" y="600" width="10" height="360" as="geometry" />
+        <mxCell id="vp-67DNqNuuONoa4qzp3-43" value="1.浏览商品" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="142.5" y="610" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="172.5" y="640" />
+            </Array>
+            <mxPoint x="147.5" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
