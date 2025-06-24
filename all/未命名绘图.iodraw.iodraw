@@ -690,7 +690,7 @@
           <mxGeometry x="800" y="3570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-209" value="卡片插入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="3770" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="3690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-210" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="835" y="3770" width="120" height="60" as="geometry" />
@@ -711,10 +711,17 @@
           <mxGeometry x="670" y="4000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-217" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="865" y="3800" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="3952" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-218" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="865" y="3880" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="4032" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-219" value="11.命令吐钞器吐钞" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.2539" y="-30" width="80" relative="1" as="geometry">
+            <mxPoint x="990" y="3030" as="sourcePoint" />
+            <mxPoint x="920" y="3150" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
