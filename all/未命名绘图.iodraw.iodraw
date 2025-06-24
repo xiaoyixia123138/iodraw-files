@@ -661,10 +661,10 @@
             <mxPoint x="1290" y="3140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-201" value="6.密码通过" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-201" value="13.吐钞并打印凭证" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry y="30" relative="1" as="geometry">
-            <mxPoint x="1365" y="2988.57" as="sourcePoint" />
-            <mxPoint x="1225" y="2988.57" as="targetPoint" />
+            <mxPoint x="950" y="2970" as="sourcePoint" />
+            <mxPoint x="810" y="2970" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
