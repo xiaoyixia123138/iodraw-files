@@ -701,16 +701,16 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-213" value="取款处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="3770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-214" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-214" value="余额不足" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="3850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-215" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-215" value="吐钞中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="3920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-216" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="4000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vp-67DNqNuuONoa4qzp3-217" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vp-67DNqNuuONoa4qzp3-217" value="交易完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="3952" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vp-67DNqNuuONoa4qzp3-218" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
