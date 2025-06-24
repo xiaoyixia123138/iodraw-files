@@ -238,6 +238,33 @@
         <mxCell id="vp-67DNqNuuONoa4qzp3-75" value="商家安排发货" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="22.5" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-80" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-131.5" y="1700" as="sourcePoint" />
+            <mxPoint x="106.5" y="1700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="48.5" y="1700" as="targetPoint" />
+            <mxPoint x="48.5" y="1660" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-86.75999999999999" y="1700" as="targetPoint" />
+            <mxPoint x="-86.75999999999999" y="1660" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-11.499999999999986" y="1740" as="targetPoint" />
+            <mxPoint x="-11.499999999999986" y="1700" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vp-67DNqNuuONoa4qzp3-84" value="系统校验库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-81.5" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
