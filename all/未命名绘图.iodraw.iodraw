@@ -25,8 +25,32 @@
         <mxCell id="A0miVCMZSMV95nwSDcp--7" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A0miVCMZSMV95nwSDcp--8" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="A0miVCMZSMV95nwSDcp--8" value="12" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0miVCMZSMV95nwSDcp--9" value="13" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="350" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0miVCMZSMV95nwSDcp--10" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0miVCMZSMV95nwSDcp--11" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="350" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0miVCMZSMV95nwSDcp--12" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0miVCMZSMV95nwSDcp--13" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0miVCMZSMV95nwSDcp--14" value="11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="600" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0miVCMZSMV95nwSDcp--15" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0miVCMZSMV95nwSDcp--16" value="12" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
