@@ -243,8 +243,8 @@
             <mxPoint x="-570" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N8ui5FmyecZHML-b_w9b-13" value="^" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="375" width="30" height="30" as="geometry" />
+        <mxCell id="N8ui5FmyecZHML-b_w9b-13" value="^" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="365" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N8ui5FmyecZHML-b_w9b-16" value="~" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-675" y="308" width="30" height="30" as="geometry" />
@@ -252,8 +252,8 @@
         <mxCell id="N8ui5FmyecZHML-b_w9b-17" value="~" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-790" y="490" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N8ui5FmyecZHML-b_w9b-18" value="^" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-180;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-940" y="320" width="30" height="30" as="geometry" />
+        <mxCell id="N8ui5FmyecZHML-b_w9b-18" value="^" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-180;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="310" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
