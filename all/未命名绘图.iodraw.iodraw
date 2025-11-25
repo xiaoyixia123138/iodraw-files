@@ -20,7 +20,19 @@
           <mxGeometry x="330" y="190" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yz7vEUU9eRLy8BlwEkJq-6" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="340" y="280" width="50" height="50" as="geometry" />
+          <mxGeometry x="420" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yz7vEUU9eRLy8BlwEkJq-7" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yz7vEUU9eRLy8BlwEkJq-8" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="350" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yz7vEUU9eRLy8BlwEkJq-9" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yz7vEUU9eRLy8BlwEkJq-10" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="350" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
